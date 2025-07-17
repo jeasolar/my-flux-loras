@@ -1,0 +1,7 @@
+github
+https://github.com/jeasolar/my-flux-loras/raw/refs/heads/main/jim-lora.safetensors
+
+fal
+https://v3.fal.media/files/rabbit/ShVy7aXgJIOhgqfYaFqaV_pytorch_lora_weights.safetensors
+
+
